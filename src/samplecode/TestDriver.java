@@ -7,7 +7,7 @@ import org.junit.Test;
 public class TestDriver {
 
 	private final String fileName = "aoj0101.dat";
-	private final String targetClass = aoj0101.Main.class.getName();
+	private final String targetClass = samplecode.Main.class.getName();
 	
 	@Test
 	public void test() {
