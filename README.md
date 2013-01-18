@@ -22,8 +22,7 @@ System.out.print(test.Test.exec("クラス名", "ファイル名"));
 使用例2．入力例，プログラムの出力，出力例をコンソールに出力
 
 ```
-System.out.print(test.Test.execResult("クラス名
-","ファイル名"));
+System.out.print(test.Test.execResult("クラス名","ファイル名"));
 ```
 
 
